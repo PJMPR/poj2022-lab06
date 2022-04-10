@@ -80,6 +80,8 @@ public class Main {
           * (1, jan, 1990-01-01)
           * Adresy:
           * (1, Gdansk, 80-001, {Brzegi 55, dziekanat szkoly})
+          * 
+          * W tym celu należy nadpisać metodę 'toString' dziedziczoną po klasie 'Object'
           */
 //         System.out.println(jan);
 
