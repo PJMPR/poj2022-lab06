@@ -9,6 +9,6 @@ Twoim zadaniem jest zaimplementowanie mechanizmu, który pozwoli na porównywani
 
 **W przeciwnym wypadku obiekty są różne.**
 
-Aby rozwiązać to zadanie należy nadpisać metody `equals` `hashCode`  `toString`, które klas dziedziczy po klasie `Object`
+Aby rozwiązać to zadanie należy nadpisać metody `equals` `hashCode`  `toString`, które klasa dziedziczy po klasie `Object`
 
 Warto wykorzystać klasę `StringBuilder` w implementacji metody `toString`
