@@ -1,1 +1,1 @@
-# poj2022-lab06
+# Zadanie (3 pkt)
