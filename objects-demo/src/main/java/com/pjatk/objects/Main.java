@@ -104,7 +104,6 @@ public class Main {
           * NIE chcę aby obiekt, który jest identyczny jak jakiś wcześniej dodany element
           * był dodany w nowe miejsce HashMapy.
           * W tym celu należy nadpisać metodę 'hashCode' dziedziczoną po klasie 'Object'
-          * wskazówka - można wykorzystać metodę 'toString' napisaną wcześniej
           */
 //         if(addressesByPerson.keySet().size()>3){
 //             System.out.println("druga kopia jana powinna wejść na miejsce jana, więc rozmiar kolekcji nie powinien być większy od 3 ");
